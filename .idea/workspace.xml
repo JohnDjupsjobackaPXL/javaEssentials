@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b24d858-9ff7-4b48-a980-0ff9a4612f38" name="Default Changelist" comment="" />
+    <list default="true" id="1b24d858-9ff7-4b48-a980-0ff9a4612f38" name="Default Changelist" comment="Upload oefening 3 eerste maal">
+      <change afterPath="$PROJECT_DIR$/H1/Hoofdstuk 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/demo/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/hello/HelloWorldApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/oef1/oef1calcpool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/oef6/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/opdracht10/opdracht10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/opdracht11/driehoek/driehoek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/opdracht11/veelvouden/veelvouden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/opdracht12/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/opdracht3/opdracht3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/opdracht4/opdracht4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/opdracht5/opdracht5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/opdracht6/invoer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/opdracht7/temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/opdracht8/bbanToIban.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/opdracht9/opdracht9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H1/src/be/pxl/h1/stringcompare/compare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef3/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef3/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef3/BankAccountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef3/BankAccountApp.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef1b/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="323">
               <caret line="23" column="135" selection-start-line="23" selection-start-column="135" selection-end-line="23" selection-end-column="135" />
               <folding>
                 <element signature="e#128#129#0" expanded="true" />
@@ -39,11 +61,49 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef2/TimeApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            <state relative-caret-position="136">
+              <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef3/BankAccountApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef3/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="805">
+              <caret line="129" column="93" selection-start-line="129" selection-start-column="93" selection-end-line="129" selection-end-column="93" />
+              <folding>
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+                <element signature="e#919#920#0" expanded="true" />
+                <element signature="e#959#960#0" expanded="true" />
+                <element signature="e#1000#1001#0" expanded="true" />
+                <element signature="e#1042#1043#0" expanded="true" />
+                <element signature="e#1088#1089#0" expanded="true" />
+                <element signature="e#1135#1136#0" expanded="true" />
+                <element signature="e#1208#1209#0" expanded="true" />
+                <element signature="e#1258#1259#0" expanded="true" />
+                <element signature="e#1314#1315#0" expanded="true" />
+                <element signature="e#1362#1363#0" expanded="true" />
+                <element signature="e#1422#1423#0" expanded="true" />
+                <element signature="e#1474#1475#0" expanded="true" />
+                <element signature="e#1544#1545#0" expanded="true" />
+                <element signature="e#1606#1607#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/H1/src/be/pxl/h1/oef6/arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="731">
               <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
             </state>
           </provider>
@@ -60,26 +120,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef2/TimeMoment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-544">
+            <state relative-caret-position="867">
               <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
               <folding>
-                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
                 <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#2156#2157#0" expanded="true" />
                 <element signature="e#2197#2198#0" expanded="true" />
-                <element signature="e#1366#1367#0" expanded="true" />
-                <element signature="e#1425#1426#0" expanded="true" />
+                <element signature="e#2331#2332#0" expanded="true" />
                 <element signature="e#2380#2381#0" expanded="true" />
+                <element signature="e#2423#2424#0" expanded="true" />
                 <element signature="e#2478#2479#0" expanded="true" />
+                <element signature="e#2521#2522#0" expanded="true" />
                 <element signature="e#2576#2577#0" expanded="true" />
               </folding>
             </state>
@@ -127,7 +179,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/H1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -166,22 +218,24 @@
         <option value="$PROJECT_DIR$/H1/src/be/pxl/h1/oef6/arrays.java" />
         <option value="$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef2/TimeMoment.java" />
         <option value="$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef2/TimeApp.java" />
+        <option value="$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef3/Account.java" />
+        <option value="$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef3/BankAccountApp.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="128" />
-    <option name="width" value="1440" />
-    <option name="height" value="773" />
+    <option name="x" value="1912" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -203,6 +257,36 @@
             <path>
               <item name="JavaEssOefeningen" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaEssOefeningen" type="462c0819:PsiDirectoryNode" />
+              <item name="H2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaEssOefeningen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaEssOefeningen" type="462c0819:PsiDirectoryNode" />
+              <item name="H2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="h2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaEssOefeningen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaEssOefeningen" type="462c0819:PsiDirectoryNode" />
+              <item name="H2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="h2" type="462c0819:PsiDirectoryNode" />
+              <item name="oefeningen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaEssOefeningen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaEssOefeningen" type="462c0819:PsiDirectoryNode" />
+              <item name="H2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="h2" type="462c0819:PsiDirectoryNode" />
+              <item name="oefeningen" type="462c0819:PsiDirectoryNode" />
+              <item name="oef3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaEssOefeningen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaEssOefeningen" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -214,12 +298,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544051229093" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544130564501" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
@@ -241,7 +326,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BankAccountApp">
+    <configuration name="BankAccountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.pxl.h2.oefeningen.oef3.BankAccountApp" />
+      <module name="H2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.h2.oefeningen.oef3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersonApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="be.pxl.h2.oefeningen.oef1b.PersonApp" />
       <module name="H2" />
@@ -294,26 +392,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rectangleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="be.pxl.h2.cursusopdracht.rectangleApp" />
-      <module name="H2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="be.pxl.h2.cursusopdracht.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankAccountApp" />
         <item itemvalue="Application.TimeApp" />
         <item itemvalue="Application.PersonApp (1)" />
         <item itemvalue="Application.inputTest" />
         <item itemvalue="Application.PersonApp" />
-        <item itemvalue="Application.rectangleApp" />
       </list>
     </recent_temporary>
   </component>
@@ -336,17 +421,19 @@
       <workItem from="1543873055471" duration="7148000" />
       <workItem from="1543923256958" duration="13559000" />
       <workItem from="1543943887575" duration="13988000" />
-      <workItem from="1544037476911" duration="12650000" />
+      <workItem from="1544037476911" duration="13154000" />
+      <workItem from="1544099284999" duration="3832000" />
+      <workItem from="1544123872564" duration="6366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71652000" />
+    <option name="totallyTimeSpent" value="82354000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="0" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1328859" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13646056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -355,7 +442,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.49716714" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.496208" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,7 +452,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3243626" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32394367" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -379,6 +466,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upload oefening 3 eerste maal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload oefening 3 eerste maal" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/H1/src/be/pxl/h1/hello/HelloWorldApp.java">
@@ -461,16 +552,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/adventOfCode/src/day1/part1/code.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/adventOfCode/src/day1/part1/code.java" />
     <entry file="uml://JAVA/be.pxl.h2.cursusopdracht.Rectangle">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -562,6 +644,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef1b/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="135" selection-start-line="23" selection-start-column="135" selection-end-line="23" selection-end-column="135" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#1717#1718#0" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+            <element signature="e#3031#3032#0" expanded="true" />
+            <element signature="e#3094#3095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/H1/src/be/pxl/h1/oef6/arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef2/TimeMoment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2197#2198#0" expanded="true" />
+            <element signature="e#2331#2332#0" expanded="true" />
+            <element signature="e#2380#2381#0" expanded="true" />
+            <element signature="e#2423#2424#0" expanded="true" />
+            <element signature="e#2478#2479#0" expanded="true" />
+            <element signature="e#2521#2522#0" expanded="true" />
+            <element signature="e#2576#2577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/H2/src/be/pxl/h2/cursusopdracht/rectangleApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -587,61 +712,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef1b/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="23" column="135" selection-start-line="23" selection-start-column="135" selection-end-line="23" selection-end-column="135" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#1717#1718#0" expanded="true" />
-            <element signature="e#1749#1750#0" expanded="true" />
-            <element signature="e#3031#3032#0" expanded="true" />
-            <element signature="e#3094#3095#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/H1/src/be/pxl/h1/oef6/arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef2/TimeMoment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-544">
-          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#2197#2198#0" expanded="true" />
-            <element signature="e#1366#1367#0" expanded="true" />
-            <element signature="e#1425#1426#0" expanded="true" />
-            <element signature="e#2380#2381#0" expanded="true" />
-            <element signature="e#2478#2479#0" expanded="true" />
-            <element signature="e#2576#2577#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef2/TimeApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        <state relative-caret-position="136">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef3/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="129" column="93" selection-start-line="129" selection-start-column="93" selection-end-line="129" selection-end-column="93" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1000#1001#0" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#1135#1136#0" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+            <element signature="e#1258#1259#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1362#1363#0" expanded="true" />
+            <element signature="e#1422#1423#0" expanded="true" />
+            <element signature="e#1474#1475#0" expanded="true" />
+            <element signature="e#1544#1545#0" expanded="true" />
+            <element signature="e#1606#1607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/H2/src/be/pxl/h2/oefeningen/oef3/BankAccountApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
         </state>
       </provider>
     </entry>
